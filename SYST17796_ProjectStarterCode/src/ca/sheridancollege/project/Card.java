@@ -1,7 +1,8 @@
 /**
  * SYST 17796 Project Winter 2019 Base code.
  * Students can modify and extend to implement their game.
- *  * modifier @Snehdeep 2020-06-21
+ *modifier @Snehdeep 2020-06-21
+ * modifier @Navjot 2020-06-25
  */
 package ca.sheridancollege.project;
 
